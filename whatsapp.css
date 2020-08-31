@@ -1,0 +1,12 @@
+body{
+	box-sizing: border-box;
+}
+section{
+	margin:0 auto;
+	font:normal small-caps bold 700%/75px courier;
+  text-align:center;
+  width:90%;
+  
+   background: linear-gradient(to right bottom, #5dade2 , #f1c40f)
+
+}
